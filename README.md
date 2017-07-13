@@ -4,15 +4,13 @@
 软件的运行结果如下图所示：
 
 https://github.com/yishabeier/StridinglineAPP/blob/master/健步行APP源码/READMEIMAGE/1.jpg
-
-(http://github.com/yishabeier/StridinglineAPP/raw/master/健步行APP源码/REDAME IMAGE/1.jpg
-/Users/freyq/Downloads/300x300bb-2.jpg)
-/Users/freyq/Downloads/300x300bb-3.jpg
-/Users/freyq/Downloads/300x300bb-4.jpg
-/Users/freyq/Downloads/300x300bb-5.jpg
+https://github.com/yishabeier/StridinglineAPP/blob/master/健步行APP源码/READMEIMAGE/2.jpg
+https://github.com/yishabeier/StridinglineAPP/blob/master/健步行APP源码/READMEIMAGE/3.jpg
+https://github.com/yishabeier/StridinglineAPP/blob/master/健步行APP源码/READMEIMAGE/4.jpg
+https://github.com/yishabeier/StridinglineAPP/blob/master/健步行APP源码/READMEIMAGE/5.jpg
 
 目前软件1.0版本已上线，欢迎大家下载评阅，以鼓励我不断完善，谢谢！
 
-软件下载链接二维码是（记得扫我下载哦）
-/Users/freyq/Downloads/1496989876.png
+软件下载链接二维码是（记得扫我下载哦
+https://github.com/yishabeier/StridinglineAPP/blob/master/健步行APP源码/READMEIMAGE/二维码.jpg
 
