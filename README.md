@@ -2,6 +2,9 @@
 健步行APP是一款集统计与阅读的应用软件，主要分为五个模块，我的主页，健康数据，健身历史，健康专辑以及系统设置，健步行应用程序集成了健康应用，主要使用了healthKit框架，在使用该程序之前必须先获得用户允许从健康应用读取健康数据的权限！
 
 软件的运行结果如下图所示：
+
+https://github.com/yishabeier/StridinglineAPP/blob/master/StridinglineAPP/健步行APP源码/README IMAGE/1.jpg
+
 (http://github.com/yishabeier/StridinglineAPP/raw/master/健步行APP源码/REDAME IMAGE/1.jpg
 /Users/freyq/Downloads/300x300bb-2.jpg)
 /Users/freyq/Downloads/300x300bb-3.jpg
