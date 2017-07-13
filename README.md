@@ -12,5 +12,5 @@
 目前软件1.0版本已上线，欢迎大家下载批评指正，以鼓励我不断完善，不断进步，谢谢！
 
 软件下载链接二维码是（记得扫我下载哦!)
-![image](https://github.com/yishabeier/StridinglineAPP/blob/master/健步行APP源码/READMEIMAGE/code.jpg)
+![image](https://github.com/yishabeier/StridinglineAPP/blob/master/健步行APP源码/READMEIMAGE/code.png)
 
